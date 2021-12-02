@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 # Part 1 of AOC-1
 
 input=aoc_1_in.txt
