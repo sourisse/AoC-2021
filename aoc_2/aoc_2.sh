@@ -1,3 +1,4 @@
+#!/bin/zsh
 
 # Part 1 of AOC-1
 
